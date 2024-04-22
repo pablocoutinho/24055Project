@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299787690559",
+    "project_id": "onlineshopp-f5d62",
+    "storage_bucket": "onlineshopp-f5d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299787690559:android:8f5531f58d9303b5110e8a",
+        "android_client_info": {
+          "package_name": "com.kharedji.onlineshopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxVKC4xl1g_b-ZyNlmk9Y4OLxhtpSA8do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

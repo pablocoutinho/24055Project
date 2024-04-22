@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MemoSphere</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="clear">Clear</string>
+
+    <!-- Category Selection Dropdown -->
+    <string name="select_category">Select Category</string>
+    <string-array name="category_options">
+        <item>Kids</item>
+        <item>Women</item>
+        <item>Beauty</item>
+        <item>Men</item>
+    </string-array>
+    <!-- Price Title -->
+    <string name="price_title">Price</string>
+
+    <!-- Price Hint -->
+    <string name="price_hint">Enter Price</string>
+
+    <!-- Description Title -->
+    <string name="description_title">Description</string>
+
+    <!-- Description Hint -->
+    <string name="description_hint">Enter Description</string>
+
+    <!-- Image Upload Button -->
+    <string name="upload_image_button">Upload Image</string>
+    <string name="title">Title</string>
+
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAZ6df2DrqkaZLPYjUMX4D_4iMCqeFMsZ0
+    </string>
+
+</resources>
